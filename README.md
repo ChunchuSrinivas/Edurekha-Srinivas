@@ -1,2 +1,2 @@
 # Edurekha-Srinivas
-For GIT Practice - New Repo
+For GIT Practice - New Repo - Srinivas
